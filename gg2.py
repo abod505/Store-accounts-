@@ -33,8 +33,8 @@ if not os.path.isdir('database'):
 # بيانات اعتماد Telegram API وتهيئة البوت
 API_ID = "21669021"
 API_HASH = "bcdae25b210b2cbe27c03117328648a2"
-TOKEN = "7503078182:AAFG_dmyM441UmZ1txF945GzyhictyjylAc"
-ADMIN_ID = 7072622935
+TOKEN = "8025481175:AAEOZoWB_kVJzdFflcOikXZG77pNMQ8dWOU"
+ADMIN_ID = 5260517001
 CHANNEL_USERNAME = "@Viptofey"
 
 # Initialize bot
